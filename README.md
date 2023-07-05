@@ -1,3 +1,4 @@
 # Blog
 
-## Example
+## For example
+
